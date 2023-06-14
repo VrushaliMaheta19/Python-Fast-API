@@ -12,3 +12,8 @@ collection name - books
                   user
                   admin
                   issueBook
+
+Functionality:
+
+user - User can view book, issue book and return book
+admin - Admin can view book, add book and delete book
